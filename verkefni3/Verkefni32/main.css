@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #3394e4;
+    margin: 0 auto;
+    max-width: 60em;
+    font-family: 'Shadows Into Light', cursive;
+}
+.haus {
+    grid-area: haus;
+    text-align: center;
+}
+.container {
+    grid-area: main;
+}
+.topnav {
+    grid-area: topnav;
+}
+.foot {
+    grid-area: foot;
+}
+.as1 {
+    grid-area: as1;
+    border-bottom: 1px solid blue;
+    padding-bottom: 1em;
+}
+.as2 {
+    grid-area: as2;
+    border-top: 1px solid blue;
+    padding-top: 1em;
+}
+.art1 {
+    grid-area: art1;
+}
+.body {
+    display: grid;
+    grid-template-areas:
+        "topnav"
+        "haus"
+        "main"
+        "foot"
+}
+.main {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-areas:
+        "as1"
+        "art1"
+        "as2";    
+}
+.topmenu , .footmenu {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 1em;
+    background-color: #ff00aa;
+}
+.topmenu li , .footmenu {
+    list-style-type: none;
+}
