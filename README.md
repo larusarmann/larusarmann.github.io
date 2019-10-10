@@ -14,6 +14,7 @@
   * [VERKEFNI 3.2](verkefni3/verk32)
   * [VERKEFNI 3.3](verkefni3/verk33)
   * [VERKEFNI 3.4](verkefni3/verk34)
+  
 --------------------------------------
 4.VERKEFNI 4
   * [VERKEFNI 4.1](verkefni4/verkefni41)
