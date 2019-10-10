@@ -1,7 +1,9 @@
 # larusarmann.github.io
 # VEFÞ1VG05AU
+-------------------------------------
+
 1. VERKEFNI
- * [VERKEFNI_1](verkefni1)
+ * [VERKEFNI 1.0](verkefni1)
  
 -------------------------------------
 
