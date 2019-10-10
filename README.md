@@ -15,10 +15,10 @@ VERKEFNI 2
  ------------------------------------
   
 VERKEFNI 3
-  * [VERKEFNI 3.1](verkefni3/verk31)
-  * [VERKEFNI 3.2](verkefni3/verk32)
-  * [VERKEFNI 3.3](verkefni3/verk33)
-  * [VERKEFNI 3.4](verkefni3/verk34)
+  * [VERKEFNI 3.1](verkefni3/verkefni31)
+  * [VERKEFNI 3.2](verkefni3/verkefni32)
+  * [VERKEFNI 3.3](verkefni3/verkefni33)
+  * [VERKEFNI 3.4](verkefni3/verkefni34)
   
 --------------------------------------
 
