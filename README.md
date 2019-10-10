@@ -3,7 +3,7 @@
 -------------------------------------
 
 VERKEFNI 1
- * [VERKEFNI 1](verkefni1)
+ * [VERKEFNI 1](verkefni1/hallo.html)
  
 -------------------------------------
 
