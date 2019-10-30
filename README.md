@@ -1,5 +1,6 @@
 # larusarmann.github.io
 # VEFÞ1VG05AU
+#Haust2019
 -------------------------------------
 
 VERKEFNI 1
