@@ -26,3 +26,8 @@ VERKEFNI 3
 VERKEFNI 4
   * [VERKEFNI 4.1](/verkefni4/index.html)
   * [VERKEFNI 4.2](verkefni4/innerlinks.html)
+  
+  --------------------------------------
+
+VERKEFNI 5
+  * [VERKEFNI 5](/verkefni5/index.html)
