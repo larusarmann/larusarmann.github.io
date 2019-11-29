@@ -31,3 +31,8 @@ VERKEFNI 4
 
 VERKEFNI 5
   * [VERKEFNI 5](/verkefni5/index.html)
+
+  --------------------------------------
+  
+VERKEFNI 6
+* [VERKEFNI 6](/verkefni6/index.html)
