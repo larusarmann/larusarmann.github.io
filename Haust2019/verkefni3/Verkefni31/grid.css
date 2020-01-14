@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+body{
+    width: 80%;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-areas:
+    "haus haus haus haus haus"
+    "valmynd valmynd valmynd valmynd valmynd"
+    "vinstri midja midja midja haegri "
+    "fotur fotur fotur fotur fotur"; 
+
+}
+.header{
+    font-family: 'Abril Fatface', cursive;
+    grid-area: haus;
+    text-align: center;
+    border: 2px solid;
+}
+.navbar{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-area: valmynd;
+    border: 2px solid;
+    padding-top: 6px;
+    padding-bottom: 6px; 
+}
+.left{
+    grid-area: vinstri;
+    border: 2px solid;
+    padding: 12px;
+}
+.main{
+    grid-area: midja;
+    border: 2px solid;
+    padding: 12px;
+
+}
+.right{
+    grid-area: haegri;
+    border: 2px solid;
+    padding: 12px;
+
+}
+.footer{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-area: fotur;
+    border: 2px solid;
+}
+.kassi{
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 20px;
+    margin-left: 20px
+}
