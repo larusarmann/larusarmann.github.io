@@ -1,10 +1,10 @@
 # larusarmann.github.io
-# VEFÞ1VG05AU
-# Haust2019
+Vefhonnun
+
 -------------------------------------
 
 VERKEFNI 1
- * [VERKEFNI 1](verkefni1/hallo.html)
+ * [VERKEFNI 1](Haust2019)
  
 -------------------------------------
 
