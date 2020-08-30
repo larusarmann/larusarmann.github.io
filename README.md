@@ -4,12 +4,12 @@ Vefhonnun
 -------------------------------------
 
 VERKEFNI 1
- * [haust2019](Haust2019)
+ * [haust2019](Haust2019/)
  
 -------------------------------------
 
 VERKEFNI 2
-  * [VERKEFNI 2.1 og 2.2](verkefni2/verkefni_22)
+  * [VERKEFNI 2.1 og 2.2](Haust2019/verkefni2/verkefni_22)
   * [VERKEFNI 2.3](verkefni2/verkefni_23)
   * [VERKEFNI 2.4](verkefni2/verkefni_24)
   
