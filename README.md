@@ -4,7 +4,7 @@ Vefhonnun
 -------------------------------------
 
 VERKEFNI 1
- * [haust2019](larusarmann.github.io/Haust2019/)
+ * [haust2019](Haust2019)
  
 -------------------------------------
 
