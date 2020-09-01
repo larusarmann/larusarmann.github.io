@@ -9,4 +9,4 @@ Haust 2019
 -------------------------------------
 
 VERKEFNI 1
-  * [VERKEFNI 2.1 og 2.2](Verkefni_1-auglýsing/anim.html)
+  * [VERKEFNI 1 auglýsing](Verkefni_1-auglýsing/anim.html)
