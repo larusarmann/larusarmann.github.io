@@ -11,7 +11,5 @@ Haust 2019
 -------------------------------------
 
 VERKEFNI 1
-  * [VERKEFNI 1 auglýsing](Verkefni_1-auglýsing/anim.html)
+  * [VERKEFNI 1 auglýsing](Vefhönnun/Verkefni_1-auglýsing/anim.html)
 
-
-* [VERKEFNI 1 test](https://github.com/larusarmann/Skoli-haust-2020/Vefhönnun/anim.html)
